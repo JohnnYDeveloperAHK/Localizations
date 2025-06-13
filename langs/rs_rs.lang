@@ -1,6 +1,6 @@
 
-agreement.terraria:text=Hello, %PLAYER%! Before we proceed to the game, please ensure you agree to the following:\n\n1) You have downloaded mod from %SRC%!\nIf not, re-download the mod from there to ensure you do not have any malware alongside it.\n\n2) You are not using pirated minecraft!\nWe highly recommend you buying an actual Minecraft account to play the mod.\n\n3) This is a fan-made project and is not affiliated with Re-Logic.
-agreement.terraria:accept=I Accept
+agreement.terraria:text=Zdravo, %PLAYER%! Pre nego što nastavimo sa igrom, molimo te da potvrdiš sledeće:\n\n1) Preuzeo/la si mod sa %SRC%!\nAko nisi, preuzmi mod ponovo sa te lokacije da bi bio/la siguran/na da nema malvera.\n\n2) Ne koristiš piratsku verziju Minecraft-a!\nPreporučujemo da kupiš originalan Minecraft nalog za igranje ovog moda.\n\n3) Ovo je fanovski projekat i nije zvanično povezan sa Re-Logic-om.
+agreement.terraria:accept=Prihvatam
 
 itemGroup.terraria:items=TerrariaCraft: Predmeti
 itemGroup.terraria:tools=TerrariaCraft: Alati
